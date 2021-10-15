@@ -1,0 +1,26 @@
+{
+    "name"       : "xibodevelopment/backupwordpress",
+    "description": "Simple automated backups of your WordPress powered website.",
+    "keywords"   : [
+        "wordpress",
+        "backup"
+    ],
+    "type"       : "wordpress-plugin",
+    "homepage"   : "https://github.com/xibodevelopment/backupwordpress",
+    "license"    : "GPL-2.0",
+    "authors"    : [
+        {
+            "name"    : "XIBO Ltd",
+            "email"   : "support@xibomarketing.com",
+            "homepage": "https://github.com/xibodevelopment"
+        }
+    ],
+    "support"    : {
+        "issues": "https://github.com/xibodevelopment/backupwordpress/issues"
+    },
+    "require": {
+        "symfony/finder": "~2.8",
+        "symfony/process": "~2.8",
+        "ifsnop/mysqldump-php":"~2.1"
+    }
+}
