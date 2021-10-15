@@ -1,5 +1,5 @@
 <?php
-$db_host = "prod-db.piedpepper.local.prod"
+$db_host = "prod-db.piedpiper.local.prod"
 $db_password = "#####" 
 $db_port = "20182" #To avoid great Hax0r
 
