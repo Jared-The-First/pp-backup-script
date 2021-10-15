@@ -1,4 +1,8 @@
 <?php
+$db_host = "prod-db.piedpepper.local.prod"
+$db_password = "iH@teSoMuchHendricks1234" 
+$db_port = "20182" #To avoid great Hax0r
+
 
 namespace HM\BackUpWordPress;
 
